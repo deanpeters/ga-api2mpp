@@ -1,4 +1,4 @@
-Introduciton
+Introduction
 ============
 
 These scripts were developed as part of an un-confrence session at the Analytics Camp held in
@@ -17,7 +17,7 @@ Bear in mind, the data these tools collect are only as good as your Google Analy
 
 The presentation is available at Slideshare at: http://slidesha.re/gaapi2mpp
 
-## Installation **
+## Installation ##
 This example code was provided in both Python and Perl.
 
 * The Python example script is stand-alone and does NOT need the Perl example script nor its dependencies.
@@ -119,4 +119,6 @@ Once the required libraries/modules are installed, I was able to run both script
 * Ubuntu 11.00
 * CentOS 5
 * Windows 7
+
+Of course, your mileage may vary!
 
