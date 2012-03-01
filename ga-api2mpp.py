@@ -24,11 +24,13 @@
 #       cronatab : * */12 * * * python ga-api2mpp.py username\@gmail.com password 1234567
 #
 # TO DO:
-#       see if I can get filters working, perhaps an array or hash of arrays?
 #       see if I can't bring in the profile id(s) from the API
 #       use a yaml config file to drive the optional parameters
 #		of course I need to not hard-code the dates
 #		more robust commandline (getops) handling
+#		employ utm tracking for outbound links
+#			-- such as ?utm_source=ga-app2mpi&utm_medium=rss-widget&utm_campaign=most-popular-pages
+#		once you empoy utm tracking, you'll want to employ utm filtering
 #		deal with missing atom:link for validation
 #			see: http://validator.w3.org/feed/docs/warning/MissingAtomSelfLink.html
 #		more robust error & exception handling 

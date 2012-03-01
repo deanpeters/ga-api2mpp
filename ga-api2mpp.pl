@@ -36,6 +36,9 @@
 #		more robust commandline (getops) handling
 #		figure out how to do CDATA blocks with the description & title fields using XML::FeedPP
 #		it might be fun to direct output via Template Toolkit;
+#		employ utm tracking for outbound links
+#			-- such as ?utm_source=ga-app2mpi&utm_medium=rss-widget&utm_campaign=most-popular-pages
+#		once you empoy utm tracking, you'll want to employ utm filtering
 #		more robust error & exception handling 
 #			-- 5 retries on a get_data, duration of each doubles until all fail
 #
