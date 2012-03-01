@@ -7,13 +7,10 @@ Chapel Hill, NC on February 25, 2012, described on this page as [http://wiki.ana
 The scripts demonstrate how to pull data from the Google Analytics API to generate an RSS feed
 of a website or blog's most popular pages, as well as creating a CSV file for further processing.
 
-During the presentation, the RSS feed was incorporated into a WordPress blog by using the
-build-in RSS widget.
-
-Non-programmer analytics geeks also appreciated having their data in a spreadsheet so they could
+* During the presentation, the RSS feed was incorporated into a WordPress blog by using the RSS widget built into the theme I was using.
+* Non-programmer analytics geeks also appreciated having their data in a spreadsheet so they could
 do their magic.
-
-Bear in mind, the data these tools collect are only as good as your Google Analytics implementation.
+* Bear in mind, the data these tools collect are only as good as your Google Analytics implementation.
 
 The presentation is available at Slideshare at: http://bitly.com/gaapi2mpp?git
 
