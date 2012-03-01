@@ -6,7 +6,7 @@
 #
 #		it generates 2 files:
 #			mpp.rss - an rss of the top 20 stories from your website/blog
-#			mpp.csv - a comma delmited file of all the stories from your website/blog
+#			mpp.csv - a comma delmited file of all the stories from your website/blog 
 #
 # ASSUMPTIONS:
 #		you have access to a Google Analytics (GA) account

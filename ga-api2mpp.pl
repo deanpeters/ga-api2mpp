@@ -71,7 +71,7 @@ my $user = $ARGV[0];								# don't forget to escape the \@ in foo\@bar.com
 my $pass = $ARGV[1];								# shhh ... secret
 my $gaid = $ARGV[2]; 								# this is NOT your GA UA Key
 my $domain = 'http://healyourchurchwebsite.com';	# don't let the long name scare ya
-my $startdate = '2010-02-23';
+my $startdate = '2010-02-23'; 
 my $enddate = '2012-02-23';
 
 # instantiate the objects we'll leverage to connect & siphon data
