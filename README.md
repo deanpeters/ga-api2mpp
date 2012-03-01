@@ -100,7 +100,7 @@ The script generates the follwing files:
 * mpp-py.rss - a python generated RSS 2.0 compliant file of the top 20 most popular pages
 * mpp-py.csv - a python generated tab-delimited file of all pages pulled from Google Analytics
 
-### Perl ***
+### Perl ###
 
 Below is the command-line syntax for running the Perl example script:
 <pre>
@@ -108,6 +108,7 @@ perl ga-api2mpp.pl username\@gmail.com password 1234567
 </pre>
 
 The script generates the follwing files:
+
 * mpp-pl.rss - a perl generated RSS 2.0 compliant file of the top 20 most popular pages
 * mpp-pl.csv - a perl generated tab-delimited file of all pages pulled from Google Analytics
 
@@ -115,6 +116,7 @@ The script generates the follwing files:
 ### Environments ###
 
 Once the required libraries/modules are installed, I was able to run both script on the following platforms:
+
 * Mac OS X 10.7
 * Ubuntu 11.00
 * CentOS 5
