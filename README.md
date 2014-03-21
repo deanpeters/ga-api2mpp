@@ -88,7 +88,7 @@ As discussed in the demonstration, the script is made so it can run regularly us
 The online '[visual crontab utility](http://www.corntab.com/pages/crontab-gui)' may provide assistance to 
 thos individuals who can't always remember the cron syntax.
 
-### Ruby ###
+### Python ###
 
 Below is the command-line syntax for running the Python example script:
 <pre>
